@@ -22,7 +22,7 @@ else
 
 echo -ne '\n ########          (50%)\r'
 
-echo -e "\n Zammad search index will start to rebuilding... \n"
+echo -e "\n Zammad search index will starting to rebuild... \n"
 
 sleep 2m
 
