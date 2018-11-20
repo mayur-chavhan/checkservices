@@ -12,7 +12,7 @@ email=mail@gmail.com
 
 ###
 host=`hostname -f`
-if [ $elserv == active ]
+if [ $elserv == 'active' ]
 then
 echo -e "\n $service is already running"
 subject="$service at $host has been started"
